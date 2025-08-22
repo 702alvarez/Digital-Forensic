@@ -2,6 +2,9 @@
 
 ---
 
+<img width="460" height="109" alt="images" src="https://github.com/user-attachments/assets/5afc5d86-0457-40ef-8171-cc4091da2b44" />
+
+
 ## 🚀 Project Highlights
 - Conducted a forensic investigation using **Autopsy** on a suspect hard drive image.  
 - Recovered **deleted confidential PDFs** and **proprietary drilling images**.  
