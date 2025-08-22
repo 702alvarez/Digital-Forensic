@@ -2,16 +2,33 @@
 
 ---
 
-## 📌 Project Overview
-This project demonstrates a hands-on forensic investigation using **Autopsy** to analyze disk images, recover deleted data, and identify Acceptable Use Policy (AUP) and Non-Disclosure Agreement (NDA) violations.  
+## 🚀 Project Highlights
+- Conducted a forensic investigation using **Autopsy** on a suspect hard drive image.  
+- Recovered **deleted confidential PDFs** and **proprietary drilling images**.  
+- Discovered user research into **file hiding techniques** and **Bitcoin payments**, indicating potential exfiltration intent.  
+- Confirmed violations of the company’s **Acceptable Use Policy (AUP)** and **Non-Disclosure Agreement (NDA)**.  
 
 ---
 
-## 🎯 Objectives
-1. Create a forensic case in Autopsy.  
-2. Examine evidence from carved/unallocated data and deleted files.  
-3. Extract, preserve, and report relevant evidence.  
-4. Identify policy violations and present findings.  
+## 📌 About This Project
+This project demonstrates a **real-world forensic workflow**: from setting up the case and ingesting the evidence image to analyzing deleted files, carved data, and metadata.  
+The goal was to determine whether sensitive information was accessed or leaked, and to present the findings clearly for a professional audience.  
+
+---
+
+## 🔍 Investigation Summary
+
+**Step 1 – Case Setup**  
+Created a new case in Autopsy, assigned examiner details, and loaded the suspect disk image.  
+
+**Step 2 – Evidence Ingestion**  
+Processed the disk image with default ingest modules to parse deleted files, carved data, and artifacts.  
+
+**Step 3 – Analyzing Deleted & Carved Data**  
+Reviewed deleted files and unallocated space, uncovering remnants of sensitive data the user attempted to conceal.  
+
+**Step 4 – Metadata & Artifacts**  
+Inspected metadata and activity artifacts to reconstruct a timeline of actions performed by the suspect.   
 
 ---
 
